@@ -1,1 +1,4 @@
 datasets
+venv
+requirements.txt
+.ipynb_checkpoints
